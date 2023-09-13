@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_lWlBMVHzEe6Mzs_UKvvZ9A" label="Talend_MDM" description="" language="java" technicalLabel="TALEND_MDM" author="_lWlBMlHzEe6Mzs_UKvvZ9A" productVersion="Talend Data Fabric-7.3.1.20230731_1649-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/AishwaryaTadaka/Talend_MDM.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM">
+  <TalendProperties:Project xmi:id="_lWlBMVHzEe6Mzs_UKvvZ9A" label="Talend_MDM" description="" language="java" technicalLabel="TALEND_MDM" author="_lWlBMlHzEe6Mzs_UKvvZ9A" productVersion="Talend Data Fabric-7.3.1.20230731_1649-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/AishwaryaTadaka/Talend_MDM.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_lY5VYFHzEe6Mzs_UKvvZ9A" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_lWlBMlHzEe6Mzs_UKvvZ9A" login="aishwarya.tadaka@thinkartha.com" firstName="Aishwarya" lastName="Tadaka" type="MDM" additionnalData="{}"/>
